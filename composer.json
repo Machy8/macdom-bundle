@@ -2,7 +2,7 @@
     "name": "machy8/macdom-bundle",
     "description": "Macdom HTML Preprocessor bundle for Symfony framework.",
     "keywords": ["macdom", "html", "preprocessor", "templating", "bundle", "minification"],
-    "license": "New BSD License",
+    "license": "BSD-3-Clause",
     "type": "symfony-bundle",
     "require": {
         "php": ">=7.0",
