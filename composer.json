@@ -1,0 +1,28 @@
+{
+    "name": "machy8/macdom-bundle",
+    "description": "Macdom HTML preprocessor bundle for Symfony framework.",
+    "keywords": ["macdom", "html", "preprocessor", "templating", "bundle", "minification"],
+    "license": "New BSD License",
+    "type": "symfony-bundle",
+    "require": {
+        "php": ">=7.0",
+        "machy8/xhtml-formatter": "^1.0",
+        "machy8/macdom": "^3.0"
+    },
+    "authors": [
+        {
+            "name": "Vladimír Macháček",
+            "email": "8machy@seznam.cz"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "Macdom\\MacdomBundle\\": ""
+        }
+    },
+    "extra": {
+        "branch-alias": {
+            "dev-master": "1.0-dev"
+        }
+    }
+}
