@@ -1,6 +1,6 @@
 {
     "name": "machy8/macdom-bundle",
-    "description": "Macdom HTML preprocessor bundle for Symfony framework.",
+    "description": "Macdom HTML Preprocessor bundle for Symfony framework.",
     "keywords": ["macdom", "html", "preprocessor", "templating", "bundle", "minification"],
     "license": "New BSD License",
     "type": "symfony-bundle",
