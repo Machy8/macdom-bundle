@@ -1,0 +1,8 @@
+services:
+    macdom:
+        class: Macdom\Engine
+        autowire: true
+        public: true
+
+    Macdom\Engine:
+        alias: macdom
